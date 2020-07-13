@@ -1,2 +1,0 @@
-# GamzeOkcann
-WebSitem
